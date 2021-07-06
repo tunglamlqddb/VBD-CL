@@ -1,0 +1,12 @@
+drop_conv2 : 64.0 / 64; drop_conv3 : 85.0 / 128; drop_conv4 : 126.0 / 256; drop1 : 1516.0 / 4096; drop2 : 434.0 / 2048; drop3 : 702.0 / 2048;  
+drop_conv2 : 64.0 / 64; drop_conv3 : 112.0 / 128; drop_conv4 : 185.0 / 256; drop1 : 2093.0 / 4096; drop2 : 614.0 / 2048; drop3 : 1373.0 / 2048;
+drop_conv2 : 64.0 / 64; drop_conv3 : 124.0 / 128; drop_conv4 : 220.0 / 256; drop1 : 2487.0 / 4096; drop2 : 806.0 / 2048; drop3 : 1771.0 / 2048; 
+drop_conv2 : 64.0 / 64; drop_conv3 : 128.0 / 128; drop_conv4 : 239.0 / 256; drop1 : 2721.0 / 4096; drop2 : 975.0 / 2048; drop3 : 1936.0 / 2048; 
+drop_conv2 : 64.0 / 64; drop_conv3 : 128.0 / 128; drop_conv4 : 248.0 / 256; drop1 : 2892.0 / 4096; drop2 : 1117.0 / 2048; drop3 : 1999.0 / 2048; 
+drop_conv2 : 64.0 / 64; drop_conv3 : 128.0 / 128; drop_conv4 : 254.0 / 256; drop1 : 3150.0 / 4096; drop2 : 1239.0 / 2048; drop3 : 2042.0 / 2048; 
+drop_conv2 : 64.0 / 64; drop_conv3 : 128.0 / 128; drop_conv4 : 254.0 / 256; drop1 : 3341.0 / 4096; drop2 : 1354.0 / 2048; drop3 : 2045.0 / 2048; 
+drop_conv2 : 64.0 / 64; drop_conv3 : 128.0 / 128; drop_conv4 : 256.0 / 256; drop1 : 3491.0 / 4096; drop2 : 1477.0 / 2048; drop3 : 2047.0 / 2048; 
+drop_conv2 : 64.0 / 64; drop_conv3 : 128.0 / 128; drop_conv4 : 256.0 / 256; drop1 : 3579.0 / 4096; drop2 : 1554.0 / 2048; drop3 : 2047.0 / 2048; 
+drop_conv2 : 64.0 / 64; drop_conv3 : 128.0 / 128; drop_conv4 : 256.0 / 256; drop1 : 3653.0 / 4096; drop2 : 1672.0 / 2048; drop3 : 2047.0 / 2048; 
+drop_conv2 : 64.0 / 64; drop_conv3 : 128.0 / 128; drop_conv4 : 256.0 / 256; drop1 : 3716.0 / 4096; drop2 : 1678.0 / 2048; drop3 : 2048.0 / 2048; 
+
