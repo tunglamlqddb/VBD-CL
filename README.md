@@ -1,13 +1,8 @@
-# VBD-CL
-* Đây là mã nguồn cài đặt phương pháp VBD-CL. 
-* Ý nghĩa các file cài đặt chính:
--) conv_net.py: mô hình mạng CNN cho tập Split CIFAR100 và Split CIFAR10-100.
--) omniglot_conv_net.py: mô hình mạng CNN cho tập Split Omniglot.
--) model.py: mô hình mạng MLP cho tập Split MNIST và Permuted MNIST.
--) layers_VBD: cài đặt tầng nhiễu của Dropout.
--) data.py: tạo dữ liệu cho các kịch bản Học liên tục.
-* Chú ý: 
--) Chạy file test_vbd_sgd.py để thực hiện các thử nghiệm. Lưu ý các tham số trong đó cần được xác định thủ công Mã nguồn vẫn đang trong quá trình hoàn thiện.
--) Đường dẫn folder dataset trong file data.py cần được thay đổi cho phù hợp.
--) Nếu phát hiện sai sót trong mã nguồn, vui lòng liên hệ tới địa chỉ mail sau đây:
-tunglamlqddb@gmail.com
+# Source code for Continual Learning via Variational Bayesian Dropout [VBD-CL] (https://tunglamlqddb.github.io/files/BS_thesis_summarize.pdf)
+The roles of the main implementation files are as follows:
+- conv_net.py: CNN model for the Split CIFAR100 and Split CIFAR10-100 datasets.
+- omniglot_conv_net.py: CNN model for the Split Omniglot dataset.
+- model.py: MLP model for the Split MNIST and Permuted MNIST datasets.
+- layers_VBD: implementation of the noisy (variational) Dropout layer.
+- data.py: data generation for continual learning scenarios.
+- Notes: Run the file test_vbd_sgd.py to conduct experiments. Parameters in this file need to be set manually, and the dataset folder path in data.py needs to be modified accordingly.
