@@ -1,4 +1,4 @@
-# Source code for Continual Learning via Variational Bayesian Dropout [VBD-CL] (https://tunglamlqddb.github.io/files/BS_thesis_summarize.pdf)
+## Source code for Continual Learning via Variational Bayesian Dropout [VBD-CL] (https://tunglamlqddb.github.io/files/BS_thesis_summarize.pdf)
 The roles of the main implementation files are as follows:
 - conv_net.py: CNN model for the Split CIFAR100 and Split CIFAR10-100 datasets.
 - omniglot_conv_net.py: CNN model for the Split Omniglot dataset.
